@@ -1,0 +1,16 @@
+.green-bg {
+  background-color: green;
+}
+
+.red-bg {
+  background-color: red;
+}
+
+.blue-bg {
+  background-color: blue;
+}
+
+img {
+  align-content: center;
+  position: relative;
+}
